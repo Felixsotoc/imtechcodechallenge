@@ -1,0 +1,7 @@
+{
+"name": "imtechcodechallenge",
+"integrations": {
+"capacitor": {}
+},
+"type": "react"
+}

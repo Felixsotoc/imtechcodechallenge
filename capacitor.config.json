@@ -1,0 +1,8 @@
+{
+"appId": "imtech.code.challenge",
+"appName": "imtechcodechallenge",
+"bundledWebRuntime": false,
+"npmClient": "npm",
+"webDir": "build",
+"cordova": {}
+}
